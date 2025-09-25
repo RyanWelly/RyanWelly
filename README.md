@@ -1,4 +1,6 @@
-3rd year student at Victoria University of Wellington, majoring in Mathematics and Computer Science.
+Recent graduate from VUW, working as a Software Engineer
 
-I also quite like playing chess on [Lichess:](https://lichess.org/@/RyanWelly)
+I greatly enjoy writing terribly unpractical programs that make me laugh. 
+
+I also quite like playing chess on [Lichess](https://lichess.org/@/RyanWelly)
 
